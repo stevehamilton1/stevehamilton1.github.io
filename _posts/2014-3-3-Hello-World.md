@@ -3,7 +3,7 @@ layout: post
 title: Research
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+It is well known that males have a higher incidence and mortality for the majority of non-reproductive cancers, and many other diseases. 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
