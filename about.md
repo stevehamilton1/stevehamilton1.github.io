@@ -1,12 +1,62 @@
 ---
 layout: page
-title: Research
+title: Resume
 permalink: /about/
 ---
-It is known that males have a significantly higher rate of incidence and mortality for the majority of non-reproductive cancers, and many other diseases. But the genomic mechanisms behind the sex disparities are not well understood. My research focuses on using comparative analyses on large population data to undestand the role that sex chromosomes, especially the role of escape genes, has on the different disease responses that females and males have. 
+Senior Undergraduate Student Researcher at Temple University Philadelphia PA
 
-### Posters
+### Skills  
+•	Python and R programming
+•	Microsoft Excel
+•	Familiarity with TCGA and GTEx databases
+•	Collaboration and Organization
 
+### Education 
+Visual Arts
+Capital Area School for The Arts Charter | Harrisburg, PA | Jun 2020
+High School Dual Enrollment
+Harrisburg Area Community College | Harrisburg, PA | Jun 2018 – Aug 2019
+Bachelor of Science: Biology with Genomics in Medicine Certificate
+Temple University | Philadelphia | Expected Graduation May 2024
+
+### Awards and Fellowships 
+Goldwater Scholarship | March 2023
+•	Awarded for research in identifying genes contributing to sexual disparities in cancer.
+Diamond Research Scholarship | May 2023 – Dec 2023
+•	Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
+Frances Velay Fellowship | May 2022 – Aug 2022
+•	Completed research in identifying genes contributing to sexual disparities in cancer. 
+W.W. Smith Charitable Trust Scholarship | May 2022 – Current
+•	Awarded to high achieving Temple University students with financial need and interest in research.
+
+### Experience and Research 
+Kulathinal Lab for Evolutionary Genetics and Biological Informatics
+Temple University Biology Department | Philadelphia, PA | May 2020-Current
+•	Completed multiple literature reviews on sex bias in disease. 
+•	Gained research experience in analyzing large genomic data. 
+Biology Undergraduate Research Symposium 
+Temple University CST | Philadelphia, PA | April 2023
+•	Poster presentation on research in escape genes and their role in disease response.
+CST Undergraduate Research Symposium 
+Temple University CST | Philadelphia, PA | Sep 2022
+•	Poster presentation on research in identifying genes contributing to sexual disparities in cancer. 
+Scientific Design (Sci-Design)
+Temple University Student Organization | Philadelphia, PA | Aug 2021-Current
+•	President and founder of the organization. 
+•	Organization focuses on science education and communication through visual art.
+•	Focus on leadership, organization of members and events, and biology education YouTube channel.
+
+### Academic History 
+•	Dean's List | Fall 2020-Current
+•	Honors | Fall 2020-Current
+•	3.94 GPA
+•	Volunteer Tutor in Algebra, Pre-Calculus, and Calculus
+
+### Activities  
+•	Center for Computational Genetics and Genomics (CCGG) member 
+•	Sci-Design President and founder
+•	Biology Society member
+•	Received two Scholastic Arts & Writing Awards for visual art. Showcased in PA's State Museum.
 
 ### Contact me
 
