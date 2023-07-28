@@ -6,10 +6,10 @@
 name: Nala Hamilton
 
 # Short bio or description (displayed in the header)
-description: 
+description: Computational Genetics & Genomics Researcher
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://media.licdn.com/dms/image/D4E03AQHsMgmojszPQw/profile-displayphoto-shrink_400_400/0/1682247390201?e=1695859200&v=beta&t=4Y9Wx5d4t0cHommZgtLIiPRnVU-xRzfmAy7M_xpN1vs
+avatar: file:///Users/nalahamilton/Desktop/Screen%20Shot%202023-07-28%20at%2012.07.02%20PM.png
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: NalaHam
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://NalaHam.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
