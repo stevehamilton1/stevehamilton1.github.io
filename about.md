@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Research
 permalink: /about/
 ---
-
-Some information about you!
+It is known that males have a significantly higher rate of incidence and mortality for the majority of non-reproductive cancers, and many other diseases. But the genomic mechanisms behind the sex disparities are not well understood. My research focuses on using comparative analyses on large population data to undestand the role that sex chromosomes, especially the role of escape genes, has on the different disease responses that females and males have. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hamiltonnalj@gmail.com](mailto:hamiltonnalj@gmail.com)
