@@ -17,18 +17,19 @@ Senior Undergraduate Student Researcher at Temple University Philadelphia PA
 ### Education 
 Visual Arts:
 
-Capital Area School for The Arts Charter | Harrisburg, PA | Jun 2020
+&nbsp; Capital Area School for The Arts Charter | Harrisburg, PA | Jun 2020
 
 
 High School Dual Enrollment:
 
-Harrisburg Area Community College **|** Harrisburg, PA **|** Jun 2018 – Aug 2019
+&nbsp; Harrisburg Area Community College | Harrisburg, PA | Jun 2018 – Aug 2019
 
 
 Bachelor of Science: 
 
-Biology with Genomics in Medicine Certificate
-Temple University | Philadelphia | Expected Graduation May 2024
+&nbsp; Biology with Genomics in Medicine Certificate
+
+&nbsp; Temple University | Philadelphia, PA | Expected Graduation May 2024
 
 ### Awards and Fellowships 
 
