@@ -22,7 +22,7 @@ Capital Area School for The Arts Charter | Harrisburg, PA | Jun 2020
 
 High School Dual Enrollment:
 
-Harrisburg Area Community College __|__ Harrisburg, PA __|__ Jun 2018 – Aug 2019
+Harrisburg Area Community College **|** Harrisburg, PA **|** Jun 2018 – Aug 2019
 
 
 Bachelor of Science: 
