@@ -6,22 +6,26 @@ permalink: /about/
 Senior Undergraduate Student Researcher at Temple University Philadelphia PA
 
 ### Skills  
-•	Python and R programming
-•	Microsoft Excel
-•	Familiarity with TCGA and GTEx databases
-•	Collaboration and Organization
+Python and R programming
+Microsoft Excel
+Familiarity with TCGA and GTEx databases
+Collaboration and Organization
 
 ### Education 
-Visual Arts
+Visual Arts:
 Capital Area School for The Arts Charter | Harrisburg, PA | Jun 2020
-High School Dual Enrollment
+
+
+High School Dual Enrollment:
 Harrisburg Area Community College | Harrisburg, PA | Jun 2018 – Aug 2019
+
+
 Bachelor of Science: Biology with Genomics in Medicine Certificate
 Temple University | Philadelphia | Expected Graduation May 2024
 
 ### Awards and Fellowships 
 Goldwater Scholarship | March 2023
-•	Awarded for research in identifying genes contributing to sexual disparities in cancer.
+Awarded for research in identifying genes contributing to sexual disparities in cancer.
 Diamond Research Scholarship | May 2023 – Dec 2023
 •	Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
 Frances Velay Fellowship | May 2022 – Aug 2022
