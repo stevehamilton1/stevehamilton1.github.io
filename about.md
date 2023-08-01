@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Senior Undergraduate Student Researcher at Temple University Philadelphia PA
 
-### Skills  
+## Skills  
 &nbsp; Python and R programming
 
 &nbsp; Microsoft Excel
@@ -14,92 +14,94 @@ Senior Undergraduate Student Researcher at Temple University Philadelphia PA
 
 &nbsp; Collaboration and Organization
 
-### Education 
+## Education 
 Visual Arts:
 
-&nbsp; Capital Area School for The Arts Charter | Harrisburg, PA | Jun 2020
+Capital Area School for The Arts Charter - Harrisburg, PA - Jun 2020
 <p>&nbsp;</p>
 
 High School Dual Enrollment:
 
-&nbsp; Harrisburg Area Community College | Harrisburg, PA | Jun 2018 – Aug 2019
+Harrisburg Area Community College - Harrisburg, PA - Jun 2018–Aug 2019
 <p>&nbsp;</p>
 
 Bachelor of Science: 
 
-&nbsp; Biology with Genomics in Medicine Certificate
+Biology with Genomics in Medicine Certificate
 
-&nbsp; Temple University | Philadelphia, PA | Expected Graduation May 2024
+Temple University - Philadelphia, PA - Expected Graduation May 2024
 
-### Awards and Fellowships 
+## Awards and Fellowships 
 
 
-__Goldwater Scholarship__  March 2023
+__Goldwater Scholarship__ &nbsp; March 2023
 
 
 Awarded for research in identifying genes contributing to sexual disparities in cancer.
 <p>&nbsp;</p>
 
-__Diamond Research Scholarship__  May 2023 – Dec 2023
+__Diamond Research Scholarship__ &nbsp; May 2023–Dec 2023
 
 
 Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
 <p>&nbsp;</p>
 
-__Frances Velay Fellowship__  May 2022 – Aug 2022
+__Frances Velay Fellowship__ &nbsp; May 2022–Aug 2022
 
 
 Completed research in identifying genes contributing to sexual disparities in cancer. 
 <p>&nbsp;</p>
 
-__W.W. Smith Charitable Trust Scholarship__  May 2022–Current
+__W.W. Smith Charitable Trust Scholarship__ &nbsp; May 2022–Current
 
 
 Awarded to high achieving Temple University students with financial need and interest in research.
 
-### Experience and Research 
-Kulathinal Lab for Evolutionary Genetics and Biological Informatics
+## Experience and Research 
+__Kulathinal Lab for Evolutionary Genetics and Biological Informatics__
 
-&nbsp; Temple University Biology Department - Philadelphia, PA - May 2020-Current
-
-
-&nbsp; &nbsp; •	Completed multiple literature reviews on sex bias in disease. 
+Temple University Biology Department - Philadelphia, PA - May 2020-Current
 
 
-&nbsp; &nbsp; •	Gained research experience in analyzing large genomic data. 
+&nbsp; &nbsp; &nbsp; •	Completed multiple literature reviews on sex bias in disease. 
+
+
+&nbsp; &nbsp; &nbsp; •	Gained research experience in analyzing large genomic data. 
 
 <p>&nbsp;</p>
 
-Biology Undergraduate Research Symposium 
+__Biology Undergraduate Research Symposium__ 
 
 Temple University CST - Philadelphia, PA - April 2023
 
 
-•	Poster presentation on research in escape genes and their role in disease response.
+&nbsp; &nbsp; &nbsp; •	Poster presentation on research in escape genes and their role in disease response.
 
 <p>&nbsp;</p>
-CST Undergraduate Research Symposium 
+
+__CST Undergraduate Research Symposium__
 
 Temple University CST - Philadelphia, PA - Sep 2022
 
 
-•	Poster presentation on research in identifying genes contributing to sexual disparities in cancer. 
+&nbsp; &nbsp; &nbsp; •	Poster presentation on research in identifying genes contributing to sexual disparities in cancer. 
 
 <p>&nbsp;</p>
-Scientific Design (Sci-Design)
+
+__Scientific Design (Sci-Design)__
 
 Temple University Student Organization - Philadelphia, PA - Aug 2021-Current
 
 
-•	President and founder of the organization. 
+&nbsp; &nbsp; &nbsp; •	President and founder of the organization. 
 
 
-•	Organization focuses on science education and communication through visual art.
+&nbsp; &nbsp; &nbsp; •	Organization focuses on science education and communication through visual art.
 
 
-•	Focus on leadership, organization of members and events, and biology education YouTube channel.
+&nbsp; &nbsp; &nbsp; •	Focus on leadership, organization of members and events, and biology education YouTube channel.
 
-### Academic History 
+## Academic History 
 
 •	Dean's List - Fall 2020-Current 
 
@@ -112,7 +114,7 @@ Temple University Student Organization - Philadelphia, PA - Aug 2021-Current
 
 •	Volunteer Tutor in Algebra, Pre-Calculus, and Calculus
 
-### Activities  
+## Activities  
 •	Center for Computational Genetics and Genomics (CCGG) member 
 
 
