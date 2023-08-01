@@ -6,7 +6,7 @@ permalink: /about/
 Senior Undergraduate Student Researcher at Temple University Philadelphia PA
 
 ### Skills  
->Python and R programming
+&nbsp; Python and R programming
 
 >Microsoft Excel
 
