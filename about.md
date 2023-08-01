@@ -55,10 +55,8 @@ Kulathinal Lab for Evolutionary Genetics and Biological Informatics
 Temple University Biology Department | Philadelphia, PA | May 2020-Current
 
 
-    • Completed multiple literature reviews on sex bias in disease. 
-    
-
-    •	Gained research experience in analyzing large genomic data. 
+-Completed multiple literature reviews on sex bias in disease. 
+-Gained research experience in analyzing large genomic data. 
 
 
 
@@ -66,8 +64,7 @@ Biology Undergraduate Research Symposium
 
 Temple University CST | Philadelphia, PA | April 2023
 
-
-    •	Poster presentation on research in escape genes and their role in disease response.
+-Poster presentation on research in escape genes and their role in disease response.
 
 
 
@@ -75,36 +72,23 @@ CST Undergraduate Research Symposium
 
 Temple University CST | Philadelphia, PA | Sep 2022
 
-
-    •	Poster presentation on research in identifying genes contributing to sexual disparities in cancer. 
-
+-Poster presentation on research in identifying genes contributing to sexual disparities in cancer. 
 
 
 Scientific Design (Sci-Design)
 
 Temple University Student Organization | Philadelphia, PA | Aug 2021-Current
 
-
-•	President and founder of the organization. 
-
-
-•	Organization focuses on science education and communication through visual art.
-
-
-•	Focus on leadership, organization of members and events, and biology education YouTube channel.
+-President and founder of the organization. 
+-Organization focuses on science education and communication through visual art.
+-Focus on leadership, organization of members and events, and biology education YouTube channel.
 
 ### Academic History 
 
-•	Dean's List | Fall 2020-Current
-
-
-•	Honors | Fall 2020-Current
-
-
-•	3.94 GPA
-
-
-•	Volunteer Tutor in Algebra, Pre-Calculus, and Calculus
+-Dean's List | Fall 2020-Current
+-Honors | Fall 2020-Current
+-3.94 GPA
+-Volunteer Tutor in Algebra, Pre-Calculus, and Calculus
 
 ### Activities  
 •	Center for Computational Genetics and Genomics (CCGG) member 
