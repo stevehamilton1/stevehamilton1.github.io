@@ -3,7 +3,7 @@ layout: post
 title: Research
 ---
 
-It is well known that males have a higher incidence and mortality for the majority of non-reproductive cancers, and many other diseases. 
+It is well known that males have a higher incidence and mortality for the majority of non-reproductive cancers, and many other diseases, but the genomic mechanisms behind this sex disapity are largely unknown. My work investigates the role of escape genes on the inactive X chromosome in females in disease response and how they might contribute to the sex disparities seen in diseases. This is done using comparision analyses on large genomic databases like the Cancer Genome Atlas program (TCGA) and Genotype-tissue Expression project (GTEx). 
 
 ![_config.yml]({{ site.baseurl }}/images/TestingEXITSas_aGenomicMechanism_for_MaleBiasedCancers.png)
 
@@ -12,4 +12,3 @@ It is well known that males have a higher incidence and mortality for the majori
 ![_config.yml]({{ site.baseurl }}/images/EscapefromXinactivation_and_disease_investingaGenomicMechanism_for_SexDisparities_in_nonReproductive_cancers.png)
 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
