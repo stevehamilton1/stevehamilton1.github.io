@@ -8,11 +8,11 @@ Senior Undergraduate Student Researcher at Temple University Philadelphia PA
 ### Skills  
 &nbsp; Python and R programming
 
->Microsoft Excel
+&nbsp; Microsoft Excel
 
->Familiarity with TCGA and GTEx databases
+&nbsp; Familiarity with TCGA and GTEx databases
 
->Collaboration and Organization
+&nbsp; Collaboration and Organization
 
 ### Education 
 Visual Arts:
@@ -36,36 +36,36 @@ Temple University | Philadelphia | Expected Graduation May 2024
 __Goldwater Scholarship__  March 2023
 
 
-Awarded for research in identifying genes contributing to sexual disparities in cancer.
+&nbsp; &nbsp; Awarded for research in identifying genes contributing to sexual disparities in cancer.
 
 
 __Diamond Research Scholarship__  May 2023 – Dec 2023
 
 
-Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
+&nbsp; &nbsp; Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
 
 
 __Frances Velay Fellowship__  May 2022 – Aug 2022
 
 
-Completed research in identifying genes contributing to sexual disparities in cancer. 
+&nbsp; &nbsp; Completed research in identifying genes contributing to sexual disparities in cancer. 
 
 
 __W.W. Smith Charitable Trust Scholarship__  May 2022–Current
 
 
-Awarded to high achieving Temple University students with financial need and interest in research.
+&nbsp; &nbsp;Awarded to high achieving Temple University students with financial need and interest in research.
 
 ### Experience and Research 
 Kulathinal Lab for Evolutionary Genetics and Biological Informatics
 
->Temple University Biology Department - Philadelphia, PA - May 2020-Current
+&nbsp; Temple University Biology Department - Philadelphia, PA - May 2020-Current
 
 
->>•	Completed multiple literature reviews on sex bias in disease. 
+&nbsp; &nbsp; •	Completed multiple literature reviews on sex bias in disease. 
 
 
->>•	Gained research experience in analyzing large genomic data. 
+&nbsp; &nbsp; •	Gained research experience in analyzing large genomic data. 
 
 
 
