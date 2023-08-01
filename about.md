@@ -26,41 +26,50 @@ Temple University | Philadelphia | Expected Graduation May 2024
 ### Awards and Fellowships 
 
 
-## Goldwater Scholarship | March 2023
+Goldwater Scholarship | March 2023
 Awarded for research in identifying genes contributing to sexual disparities in cancer.
 
 
-## Diamond Research Scholarship | May 2023 – Dec 2023
+Diamond Research Scholarship | May 2023 – Dec 2023
 Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
 
 
-## Frances Velay Fellowship | May 2022 – Aug 2022
+Frances Velay Fellowship | May 2022 – Aug 2022
 Completed research in identifying genes contributing to sexual disparities in cancer. 
 
 
-## W.W. Smith Charitable Trust Scholarship | May 2022 – Current
+W.W. Smith Charitable Trust Scholarship | May 2022 – Current
 Awarded to high achieving Temple University students with financial need and interest in research.
 
-### Experience and Research 
+Experience and Research 
 Kulathinal Lab for Evolutionary Genetics and Biological Informatics
 
 Temple University Biology Department | Philadelphia, PA | May 2020-Current
 
-• Completed multiple literature reviews on sex bias in disease. 
 
-•	Gained research experience in analyzing large genomic data. 
+    • Completed multiple literature reviews on sex bias in disease. 
+
+    •	Gained research experience in analyzing large genomic data. 
+
+
 
 Biology Undergraduate Research Symposium 
 
 Temple University CST | Philadelphia, PA | April 2023
 
-•	Poster presentation on research in escape genes and their role in disease response.
+
+    •	Poster presentation on research in escape genes and their role in disease response.
+
+
 
 CST Undergraduate Research Symposium 
 
 Temple University CST | Philadelphia, PA | Sep 2022
 
-•	Poster presentation on research in identifying genes contributing to sexual disparities in cancer. 
+
+    •	Poster presentation on research in identifying genes contributing to sexual disparities in cancer. 
+
+
 
 Scientific Design (Sci-Design)
 
