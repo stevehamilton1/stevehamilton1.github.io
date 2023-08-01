@@ -6,13 +6,13 @@ permalink: /about/
 Senior Undergraduate Student Researcher at Temple University Philadelphia PA
 
 ### Skills  
-Python and R programming
+>Python and R programming
 
-Microsoft Excel
+>Microsoft Excel
 
-Familiarity with TCGA and GTEx databases
+>Familiarity with TCGA and GTEx databases
 
-Collaboration and Organization
+>Collaboration and Organization
 
 ### Education 
 Visual Arts:
