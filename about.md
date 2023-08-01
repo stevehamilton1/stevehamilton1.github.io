@@ -7,44 +7,51 @@ Senior Undergraduate Student Researcher at Temple University Philadelphia PA
 
 ### Skills  
 Python and R programming
+
 Microsoft Excel
+
 Familiarity with TCGA and GTEx databases
+
 Collaboration and Organization
 
 ### Education 
 Visual Arts:
+
 Capital Area School for The Arts Charter | Harrisburg, PA | Jun 2020
 
 
 High School Dual Enrollment:
-Harrisburg Area Community College | Harrisburg, PA | Jun 2018 – Aug 2019
+
+Harrisburg Area Community College __|__ Harrisburg, PA __|__ Jun 2018 – Aug 2019
 
 
-Bachelor of Science: Biology with Genomics in Medicine Certificate
+Bachelor of Science: 
+
+Biology with Genomics in Medicine Certificate
 Temple University | Philadelphia | Expected Graduation May 2024
 
 ### Awards and Fellowships 
 
 
-__Goldwater Scholarship__ | March 2023
+__Goldwater Scholarship__  March 2023
 
 
 Awarded for research in identifying genes contributing to sexual disparities in cancer.
 
 
-__Diamond Research Scholarship__ | May 2023 – Dec 2023
+__Diamond Research Scholarship__  May 2023 – Dec 2023
 
 
 Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
 
 
-__Frances Velay Fellowship__ - May 2022 – Aug 2022
+__Frances Velay Fellowship__  May 2022 – Aug 2022
 
 
 Completed research in identifying genes contributing to sexual disparities in cancer. 
 
 
-__W.W. Smith Charitable Trust Scholarship__ - May 2022–Current
+__W.W. Smith Charitable Trust Scholarship__  May 2022–Current
 
 
 Awarded to high achieving Temple University students with financial need and interest in research.
@@ -52,13 +59,13 @@ Awarded to high achieving Temple University students with financial need and int
 ### Experience and Research 
 Kulathinal Lab for Evolutionary Genetics and Biological Informatics
 
-Temple University Biology Department - Philadelphia, PA - May 2020-Current
+>Temple University Biology Department - Philadelphia, PA - May 2020-Current
 
 
-•	Completed multiple literature reviews on sex bias in disease. 
+>>•	Completed multiple literature reviews on sex bias in disease. 
 
 
-•	Gained research experience in analyzing large genomic data. 
+>>•	Gained research experience in analyzing large genomic data. 
 
 
 
