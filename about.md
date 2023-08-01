@@ -68,7 +68,7 @@ Kulathinal Lab for Evolutionary Genetics and Biological Informatics
 
 &nbsp; &nbsp; •	Gained research experience in analyzing large genomic data. 
 
-
+<p>&nbsp;</p>
 
 Biology Undergraduate Research Symposium 
 
