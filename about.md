@@ -1,3 +1,5 @@
+![_config.yml]({{ site.baseurl }}/images/picture.png)
+
 ---
 layout: page
 title: Resume
@@ -6,13 +8,13 @@ permalink: /about/
 Senior Undergraduate Student Researcher at Temple University Philadelphia PA
 
 ## Skills  
-&nbsp; Python and R programming
+Python and R programming
 
-&nbsp; Microsoft Excel
+Microsoft Excel
 
-&nbsp; Familiarity with TCGA and GTEx databases
+Familiarity with TCGA and GTEx databases
 
-&nbsp; Collaboration and Organization
+Collaboration and Organization
 
 ## Education 
 Visual Arts:
