@@ -1,4 +1,4 @@
-![_config.yml]({{ site.baseurl }}/images/picture.png)
+![_config.yml](/images/picture.png)
 
 ---
 layout: page
