@@ -1,10 +1,10 @@
-![_config.yml](/images/picture.png)
-
 ---
 layout: page
 title: Resume
 permalink: /about/
 ---
+![_config.yml](/images/picture.png)
+
 Senior Undergraduate Student Researcher at Temple University Philadelphia PA
 
 ## Skills  
