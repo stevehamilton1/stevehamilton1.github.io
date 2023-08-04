@@ -14,7 +14,7 @@ Microsoft Excel
 
 Familiarity with TCGA and GTEx databases
 
-Collaboration and Organization
+Collaboration and Organization (in relation to being a leader in a Student Organization)
 
 ## Education 
 Visual Arts:
