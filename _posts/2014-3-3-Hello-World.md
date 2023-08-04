@@ -3,7 +3,8 @@ layout: post
 title: Research
 ---
 
-It is well known that males have a higher incidence and mortality for the majority of non-reproductive cancers, and many other diseases, but the genomic mechanisms behind this sex disapity are largely unknown. My work investigates the role of escape genes on the inactive X chromosome in females in disease response and how they might contribute to the sex disparities seen in diseases. This is done using comparision analyses on large genomic databases like the Cancer Genome Atlas program (TCGA) and Genotype-tissue Expression project (GTEx). 
+Sex disparities in diseases are well-documented; however, the the genomic mechanisms behind these sex differences remain unknown. Males have been ovsereved to have a higher tendency to develop non-reproductuve cancers and also to die from them compared to females. The genomic factors contributing to these disparities are being actively studied, but are still largely unknown. My work investigates the role of escape genes in disease sex disparities. This is done using comparision analyses that uses large genomic databases and repositories like the Cancer Genome Atlas program (TCGA) and Genotype-tissue Expression project (GTEx). 
+
 
 ## News
 
