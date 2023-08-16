@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Research Presentations
 ---
 ## Barry Goldwater Symposium
 Aug 2023
@@ -12,13 +12,13 @@ Aug 2023
 May 2023–Dec 2023
 
 
-![_config.yml]({{ site.baseurl }}/images/Escape_from_Xinactivation_InvestigatingaGenomicMechanism_for_sexDisparites_in_disease.png)
+![_config.yml]({{ site.baseurl }}/images/EscapefromXinactivation_and_disease_investingaGenomicMechanism_for_SexDisparities_in_nonReproductive_cancers.png)
 
 ## Kulathinal Research Lab
 Jan 2023-May 2023
 
 
-![_config.yml]({{ site.baseurl }}/images/EscapefromXinactivation_and_disease_investingaGenomicMechanism_for_SexDisparities_in_nonReproductive_cancers.png)
+![_config.yml]({{ site.baseurl }}/images/Escape_from_Xinactivation_InvestigatingaGenomicMechanism_for_sexDisparites_in_disease.png)
 
 ## Frances Velay Fellowship Program
 May 2022–Aug 2022
