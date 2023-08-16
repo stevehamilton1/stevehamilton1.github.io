@@ -8,7 +8,7 @@ Sex disparities in diseases are well-documented; however, the the genomic mechan
 
 ## News
 
-https://cst.temple.edu/news/2023/04/celebrating-two-goldwater-scholars-and-two-firsts
+[Celebrating Two Goldwater Scholars and Two Firsts](https://cst.temple.edu/news/2023/04/celebrating-two-goldwater-scholars-and-two-firsts)
 
 ## Research Posters
 
