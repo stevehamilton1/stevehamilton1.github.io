@@ -6,7 +6,7 @@ title: Research Presentations
 Aug 2023
 
 
-[The evolution of escape genes and their influence on disease in humans](file:///Users/nalahamilton/Downloads/Summary%20of%20Mammals%20and%20Escape.pdf)
+[The evolution of escape genes and their influence in human disease](file:///Users/nalahamilton/Downloads/Summary%20of%20Mammals%20and%20Escape.pdf)
 
 ## Diamond Research Scholars Program
 May 2023–Dec 2023
