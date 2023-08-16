@@ -2,7 +2,7 @@
 layout: page
 title: Research Presentations
 ---
-## Barry Goldwater Symposium
+## Barry Goldwater Research Symposium
 Aug 2023
 
 
