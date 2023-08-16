@@ -3,7 +3,7 @@ layout: post
 title: Research
 ---
 
-Sex disparities in diseases are well-documented; however, the the genomic mechanisms behind these sex differences remain unknown. Males have been ovsereved to have a higher tendency to develop non-reproductuve cancers and also to die from them compared to females. The genomic factors contributing to these disparities are being actively studied, but are still largely unknown. My work investigates the role of escape genes in disease sex disparities. This is done using comparision analyses that uses large genomic databases and repositories like the Cancer Genome Atlas program (TCGA) and Genotype-tissue Expression project (GTEx). 
+There are observed sex disparities in both incidence and mortality for many non-reproductive related diseases that have yet to be explained by environmental or gender differences. Research into the genomic mechanisms of sex bias in disease is a relatively new and on going field of study. My work investigates the role of sex chromosomes on differing disease response through large scale genomic comparative analyses using repositories like the Cancer Genome Atlas program (TCGA) and Genotype-tissue Expression project (GTEx). 
 
 
 ## News
