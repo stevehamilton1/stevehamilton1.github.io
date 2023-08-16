@@ -8,5 +8,5 @@ For many non-reproductive related diseases there are observed sex disparities in
 
 ## News
 
-[Celebrating Two Goldwater Scholars and Two Firsts](https://cst.temple.edu/news/2023/04/celebrating-two-goldwater-scholars-and-two-firsts)
+[Temple University News: Celebrating Two Goldwater Scholars and Two Firsts](https://cst.temple.edu/news/2023/04/celebrating-two-goldwater-scholars-and-two-firsts)
 
