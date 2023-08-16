@@ -3,9 +3,10 @@ layout: page
 title:  
 permalink: /about/
 ---
+Senior Undergraduate Student Researcher at Temple University Philadelphia PA
+
 ![_config.yml](/images/picture.png)
 
-Senior Undergraduate Student Researcher at Temple University Philadelphia PA
 # Resume
 ## Skills  
 Python and R programming
