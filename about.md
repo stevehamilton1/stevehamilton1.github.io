@@ -6,7 +6,7 @@ permalink: /about/
 ![_config.yml](/images/picture.png)
 
 Senior Undergraduate Student Researcher at Temple University Philadelphia PA
-### Resume
+# Resume
 ## Skills  
 Python and R programming
 
