@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Graduate Student Researcher at Vanderbilt University, TN
 
-![_config.yml](/images/picture.png)
+![_config.yml](/images/IMG_2704.png)
 
 # Resume
 ## Skills  
