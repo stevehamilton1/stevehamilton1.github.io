@@ -8,19 +8,19 @@ Aug 2023
 
 [The evolution of escape genes and their influence on human disease](file:///Users/nalahamilton/Downloads/Summary%20of%20Mammals%20and%20Escape.pdf)
 
-## Diamond Research Scholars Program
+## Diamond Research Scholars Program (Temple University)
 May 2023–Dec 2023
 
 
 ![_config.yml]({{ site.baseurl }}/images/EscapefromXinactivation_and_disease_investingaGenomicMechanism_for_SexDisparities_in_nonReproductive_cancers.png)
 
-## Kulathinal Research Lab
+## Kulathinal Research Lab 
 Jan 2023-May 2023
 
 
 ![_config.yml]({{ site.baseurl }}/images/Escape_from_Xinactivation_InvestigatingaGenomicMechanism_for_sexDisparites_in_disease.png)
 
-## Frances Velay Fellowship Program
+## Frances Velay Fellowship Program 
 May 2022–Aug 2022
 
 
